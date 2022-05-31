@@ -1,0 +1,96 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Lab No. 3: Stream and Channel Measurements</title>
+  <metadata>
+  <md:content-id>m29457</md:content-id><md:title>Lab No. 3: Stream and Channel Measurements</md:title>
+  <md:abstract/>
+  <md:uuid>441c6da5-86fc-420b-be9d-f78e2967c189</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="id-678419854092">
+      <title>Field Work (21 March)</title>
+      <para id="id47325700">The class will be broken into groups. You must work with different people than you worked with for the weather station measurements. We will visit two sites, with a set of tasks to be done at each site. Each group is responsible for the following:</para>
+      <section id="id-804553413171">
+        <title>Site 1 (below a small dam):</title>
+        <para id="id47132072">(1) Locate and survey one cross-section; identify bankfull stage IF that can be identified in the stream section we are studying. Be sure to measure the left and right edge of water (LEW and REW, respectively), and remember the hydrologist always faces downstream. </para>
+        <para id="id47779554">(2) Measure discharge at your designated cross-section. You should try to have no more than 10% of the flow in any one section. Since we only have one current meter, just make one measurement in each section for 10 seconds at 0.6 of the depth.</para>
+        <para id="id47625571">(3) At the deepest point in the stream (“thalweg”): (a) measure the velocity with a current meter at 0.2, 0.4, 0.6, and 0.8 times the depth; do this for a minimum of 40 seconds and use the rating table provided to you; (b) measure the velocity using v = (2gh)0.5, where h is the rise in water level against some obstruction, such as the stadia rod; and (c) measure the velocity using a float over a distance of around 5 m.</para>
+        <para id="id46823836">(4) Measure the water surface slope along a short reach centered on your cross-section using a clinometer.</para>
+        <para id="id47625582">(5) Estimate a value for Manning's "n" for the area immediately around your cross-section. Guidance for this should come from the tabulated values in the handout (Chow, 1959).</para>
+        <para id="id47722229">(6) Do a Wolman pebble count (minimum of 100 pebbles) along your cross-section. Samples should be systematically spaced at a distance that is roughly equal to the second or third largest particle in your cross-section. Note that you will need several transects across the stream in order to obtain the necessary sample size (each additional transect should be about one meter upstream of the previous count). Sampling transects should extend from bankfull to bankfull.(7) Collect the information to classify the stream in the vicinity of your cross-section according to: (i) Rosgen (1994) and (ii) Montgomery and Buffington (1993, 1997).</para>
+      </section>
+      <section id="id-401701946989">
+        <title>Site 2 (more natural reach):</title>
+        <para id="id47658594">(1) Locate and do a rough survey (maximum of 20 points) of one cross-section. Locate the cross-section in a location that would be good for measuring discharge. Be sure to identify current water level and bankfull in your survey. </para>
+        <para id="id47335198">(2) Measure the water surface slope along a short reach centered on your cross-section using a clinometer.</para>
+        <para id="id47722902">(3) Estimate a value for Manning's "n" for the area immediately around your cross-section. Guidance for this should come from the tabulated values in the handout (Chow, 1959).</para>
+        <para id="id47246584">(4) Collect the information to classify the stream in the vicinity of your cross-section according to: (i) Rosgen (1994) and (ii) Montgomery and Buffington (1993, 1997).</para>
+        <para id="id47625606">(5) Each individual should make a field sketch (plan view) of the channel reach under study. This sketch should include the banks and an indication of the adjacent topography and vegetation. Be sure to include, along with other important features: (i) the approximate location and size of the major habitat units within the study reach; and (ii) the approximate location of each cross-section. To facilitate the drawing of the sketch maps, each group should leave their string up until the entire class has completed all portions of this exercise. </para>
+      </section>
+    </section>
+    <section id="id-517193378128">
+      <title>Data to be Turned in by 1500 on 25 March </title>
+      <para id="id47778418">Each team must slide the following data under Lee's door in the VFU guesthouse (Room 203) by 1500 on Wednesday, 25 March so that it can be copied and distributed in class. This means the data must be clearly labeled and legible, and each sheet should include the names of your team and your cross-section number. Failure to submit data on time, or to submit it in a form that requires additional verbal explanation, will result in a substantial penalty for all team members.</para>
+      <section id="id-90536860898">
+        <title>Site 1:</title>
+        <para id="id46839591">(1) A plot of your cross-section that includes: (a) the water level at the time of your survey; (b) the estimated bankfull stage if that can be identified (we will determine this in the field); (c) the measured discharge in cms (cubic meters per second); and (d) the date, time, and type of current meter used to measure discharge.</para>
+        <para id="id47365879">(2) The pebble count should be plotted on A4 paper using a semi-log scale (i.e., diameter in millimeters on a log scale on the x axis and percent finer than with an arithmetic scale of 0 to 100 percent on the y axis). It goes without saying that the graph should be properly labelled (names, cross-section number, axes, etc.). Give the size of the D16, D50, and D84 particles to the nearest millimeter, and use dotted lines to show how you obtained these values. Also indicate whether you used a gravelometer or a ruler to measure the particle size.</para>
+      </section>
+      <section id="id-491161071059">
+        <title>Site 2:</title>
+        <para id="id47244155">(1) A plot of your cross-section. This should show: (a) the water level at the time of your survey; (b) the estimated bankfull stage on each side of your cross-section; (c) the current water level; and (d) the difference in vertical elevation between the current water level and your estimate of bankfull for each side of the stream.</para>
+      </section>
+    </section>
+    <section id="id-930965279102">
+      <title>Data to be Compiled, Calculated, and Brought to Class on 28 March </title>
+      <para id="id46969746">The following data should be compiled and calculated prior to the beginning of class on 28 March. In this class period we will review how the data should be presented, compare the results from each group, and discuss the reasons for any observed differences. For this process to work, you must have all of the following information compiled or calculated BEFORE coming to class.</para>
+      <section id="id-718832759039">
+        <title>Site 1:</title>
+        <para id="id47671234">(1) Number of verticals used for your discharge measurement and the percent of flow in each vertical;</para>
+        <para id="id47671240">(2) Measured velocities at the deepest point in the stream using each of the methods listed under task #3 in the section on field data collection; </para>
+        <para id="id46883682">(3) Calculated discharge using Manning's formula;</para>
+        <para id="id46883687">(4) Back-calculated Manning's "n" (rearrange Manning’s equation to solve for n, and plug in your measured discharge and cross-section data);</para>
+        <para id="id46899072">(5) Stream classification according to both Rosgen and Montgomery-Buffington, and the values for each of the criteria in the Rosgen classification at each site to the extent they can be identified (i.e., bankfull width; bankfull depth; width/depth ratio; entrenchment ratio; etc.);</para>
+        <para id="id47706447">(6) D16, D50, and D84 for your cross-section;</para>
+        <para id="id47636390">(7) Stream gradient as measured with the clinometer.</para>
+      </section>
+      <section id="id-575179592556">
+        <title>Site 2:</title>
+        <para id="id47636406">(1) Estimated vertical difference between bankfull and current water level for each side of the stream;</para>
+        <para id="id47757644">(2) Estimated Manning’s “n” and calculated discharge using Manning's formula for: (a) current water level; and (b) bankfull discharge;</para>
+        <para id="id47368492">(3) Stream classification according to both Rosgen and Montgomery-Buffington, and the values for each of the criteria in the Rosgen classification at each site to the extent they can be identified (i.e., bankfull width; bankfull depth; width/depth ratio; entrenchment ratio; etc.);</para>
+        <para id="id47368501">(4) Stream gradient as measured with the clinometer.</para>
+      </section>
+    </section>
+    <section id="id-223003250823">
+      <title>Reports (due October 25)</title>
+      <para id="id47369750">For this lab you will submit both a team and an individual report, and these are described below. You should read and reference the appropriate sections of the reader, as some of the questions will require a deeper understanding of the procedures used to collect your data and the resulting uncertainties.</para>
+      <para id="id47757311">With regard to the team report, it is important that your answers be formulated as a group, as that is the only way that each team member can become familiar with all the issues and topics associated with this lab. If you already have considerable experience in this type of work, please don't take over or attempt to dominate your group; most learning takes place as people grapple with a problem, and the least experienced gain the most from helping to develop the answers to each of the following questions.</para>
+      <section id="id-776569326902">
+        <title>Group Report</title>
+        <para id="id47682537">
+          <emphasis>Site 1</emphasis>
+        </para>
+        <para id="id47669220">1. (a) Make a table comparing the velocities measured at the deepest point in the stream using the following techniques: (1) velocity at 0.6 times the depth; (2) mean velocity using 0.2 and 0.8 times the depth; (3) mean velocity using all depths; (4) float times 0.85; and (5) the velocity head method. (b) Comment on the relative reliability of each of the five techniques used to measure velocity, and then indicate which technique(s) would you recommend, and which are unreliable. Be sure to justify your answers.</para>
+        <para id="id47722259">2. Provide a final plot of your surveyed cross-section.</para>
+        <para id="id47722264">3. (a) What was your measured discharge? (b) How did your value compare to the other discharge measurements? (c) Using the information presented in class and the reader, list—in order of importance—the most likely reasons for the variability in the measured discharge values among groups. Briefly explain and justify your list.</para>
+        <para id="id47669937">4. (a) Provide a final plot of your particle-size distribution. (b) From this plot or the raw data list your D16, D50, and D84 values. (c) How do your values compare to the values obtained at the other cross-sections? (d) Using the material in the reader (e.g., Wolman, 1954; Platts et al., 1983) and presented in class, do you think that your data accurately represent the true distribution of particle sizes on the channel bottom at your cross-section? Briefly explain why or why not.</para>
+        <para id="id47657795">5. (a) What was your estimated value for Manning's n? (b) Show your calculations to estimate the discharge using Manning's equation. (c) Compare your calculated discharge to the measured discharge. (d) Rearrange and solve Manning's equation for n using your measured discharge (i.e., what value would Manning's n have to be for the calculated discharge to equal the measured discharge?). (d) In cases where we do not have a gaging station, the discharge associated with extreme events is typically estimated using Manning’s equation. Comment on the usefulness and accuracy of Manning's equation to estimate large flow events.</para>
+        <para id="id47311294">7. (a) What is your channel classification according to Rosgen (1994)? (b) What is your channel classification according to Montgomery and Buffington (1993, 1997)? </para>
+        <para id="id47863517">
+          <emphasis>Site 2:</emphasis>
+        </para>
+        <para id="id47863525">1. Provide a final plot of your surveyed cross-section.</para>
+        <para id="id47863530">2. (a) What was your estimated value for Manning's n? (b) Show your calculations to estimate the discharge using Manning's equation. </para>
+        <para id="id47704702">7. (a) What is your channel classification according to Rosgen (1994)? (b) What is your channel classification according to Montgomery and Buffington (1993, 1997)? </para>
+      </section>
+      <section id="id-669163562896">
+        <title>Individual Reports </title>
+        <para id="id47717574">1. For site 2, comment on your ability to distinguish bankfull, and the likely accuracy of the bankfull values estimated by your group.</para>
+        <para id="id47863640">2. Comment on the current condition of the stream. Is it aggrading (sediment being deposited) or incising? Are the banks actively eroding? Does the stream look healthy to you? Why or why not? (I realize this is not an easy question, but please try. You should write somewhere between one paragraph and about one page.)</para>
+        <para id="id47863658">3. Attach your individual sketch map for site 2. Note that the two main purposes of a sketch map are: (1) to allow you or another observer to find the reach and locations where specific data were collected; and (2) document the current features of interest so that your or another observer could come back at a later date and determine whether there have been significant changes in the channel or adjacent riparian zones. </para>
+      </section>
+    </section>
+  </content>
+</document>

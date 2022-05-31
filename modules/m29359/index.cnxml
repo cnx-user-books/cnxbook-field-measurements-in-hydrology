@@ -1,0 +1,65 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Course Outline</title>
+  <metadata>
+  <md:content-id>m29359</md:content-id><md:title>Course Outline</md:title>
+  <md:abstract/>
+  <md:uuid>5d56a7d0-820d-4a99-83ee-919cec7aa562</md:uuid>
+</metadata>
+
+<content>
+<section id="id-3648427267311">
+      <title>Objectives:</title>
+   
+    <para id="id3494564">The objectives of this course are to: (1) provide theoretical understanding and practical experience with the most common measurement techniques relevant to hydrology and watershed science; and (2) provide training in collecting, analysing, and presenting scientific data.</para>
+    <para id="id8026137">The methods that will be used to achieve these objectives include lectures, readings, directed field exercises, lab and homework assignments, field trips, and a final exam. There will be at least one all-day field trip to make discharge and stream channel measurements. These data will be presented and discussed in class the following week.</para>
+</section>
+<section id="id-3648427267312">
+      <title>Text:</title>
+     
+    <para id="id4575183">There is no single text that covers the material presented in this course, but some of the chapters and appendices in Forest Hydrology by Mingteh Chang cover some aspects of the course as indicated in the course schedule. References for other sections are available online (see particularly the numerous USGS publications at <link url="http://pubs.usgs.gov/twri/">http://pubs.usgs.gov/twri/</link>), and additional materials will be provided as handouts.</para>
+</section>
+<section id="id-3648427267313">
+      <title>Projected Grading:</title>
+    
+    <para id="id3902551"><emphasis>Major lab reports:</emphasis></para>
+    <para id="id6267631">Meteorologic measurements: 20-25%</para>
+    <para id="id4211524">Stream measurements: 20%</para>
+    
+    <para id="id5159273"><emphasis>Other lab exercises and reports (3):</emphasis> 30-35%</para>
+    <para id="id8972771"><emphasis>Class participation and attendance:</emphasis> 0-10%</para>
+    <para id="id4229294"><emphasis>Final exam (take-home):</emphasis> 20-25%</para>
+    <para id="id8149076"><emphasis>Total:</emphasis> 100%</para>
+</section>
+<section id="id-3648427267314">
+      <title>Office hours:</title>
+   
+    <para id="id7181193">Monday and Wednesday afternoons 3:00-5:00, Room 203, VFU Guesthouse</para>
+</section>
+    <section id="id-364842726731">
+      <title>Tentative Schedule</title>
+      <para id="id7159335">Week 1: Course outline, student desires; Traditional measurements (rainfall, temperature relative humidity, wind); Chang Appendix A, pp. 377-388);</para>
+      <para id="id6847494">Week 2: Wind; evaporation; solar radiation; groundwater levels; Advantages and disadvantages of electronic data collection; tour weather station; rainfall erosivity and RF program if time;</para>
+      <para id="id4361074">Week 3: Soil moisture; begin monitoring; </para>
+      <para id="id4459283">Week 4: Surveying, groundwater levels, groundwater gradients (Dunne and Leopold, Chapter 7);</para>
+      <para id="id6637858">Week 5: Stream classification and channel characteristics (bankfull, slope, bed material);</para>
+      <para id="id4602818">Week 6: Discharge measurements and rating curves; pebble counts; thalweg profile; (Chang Appendix B, pp. 389-403; Buchanan and Somers, Discharge Measurements at Gaging Stations, <link url="http://pubs.usgs.gov/twri/twri3a8/">http://pubs.usgs.gov/twri/twri3a8/</link>; Kennedy, Levels at Streamflow Gaging Stations; <link url="http://pubs.usgs.gov/twri/twri3-A19/html/toc.html">http://pubs.usgs.gov/twri/twri3-A19/html/toc.html</link>);</para>
+      <para id="id5814576">Week 7: Field trip to collect discharge and other stream data;</para>
+      <para id="id3609170"/>
+      <para id="id4409345">Week 8: Analysis and presentation of field trip data;</para>
+    </section>
+    <section id="id-307029754356">
+      <title>Midterm</title>
+      <para id="id4126241">Week 11: Infiltration and hydraulic conductivity;</para>
+      <para id="id4549991">Week 12: Sediment measurements in streams: suspended load and bedload (Chang Appendix C, pp. 411-429; Field Methods for Measurement of Fluvial Sediment, <link url="http://pubs.usgs.gov/twri/twri3-c2/">http://pubs.usgs.gov/twri/twri3-c2/</link>);</para>
+      <para id="id5576766">Week 13: Water quality 1: site selection, temperature, pH, conductivity, dissolved oxygen (Prof. John Stednick);</para>
+      <para id="id9060527">Week 14: Water quality 2: turbidity, nitrate, phosphate, hardness, alkalinity, quality assurance/quality control; </para>
+      <para id="id5683676">(Prof. John Stednick)</para>
+      <para id="id4351585">Week 15: Erosion processes and measurements: erosion pins and bridges; rainfall simulators; Gerlach troughs and erosion plots; sediment fences; (Chang Chapter 11);</para>
+      <para id="id8063683">Week 16: Flumes, weirs, and other discharge measurements (dilution techniques); (Chang Appendix B, pp. 403-410); Hydrologic connectivity; Wrap-up. </para>
+    </section>
+    <section id="id-850714898289">
+      <title>Final exam: </title>
+      <para id="id4057916">8 June: 09:15-11:00</para>
+    </section>
+  </content>
+</document>
